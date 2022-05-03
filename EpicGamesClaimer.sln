@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicGamesClaimer.Console", "EpicGamesClaimer.Console\EpicGamesClaimer.Console.csproj", "{B4E05955-1707-4B53-9220-50E291EBA29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicGamesClaimer.Core", "EpicGamesClaimer.Core\EpicGamesClaimer.Core.csproj", "{690745AA-C549-4D0C-ACD5-7041E461BB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E05955-1707-4B53-9220-50E291EBA29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E05955-1707-4B53-9220-50E291EBA29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E05955-1707-4B53-9220-50E291EBA29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E05955-1707-4B53-9220-50E291EBA29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690745AA-C549-4D0C-ACD5-7041E461BB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690745AA-C549-4D0C-ACD5-7041E461BB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690745AA-C549-4D0C-ACD5-7041E461BB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690745AA-C549-4D0C-ACD5-7041E461BB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A758F174-EFAF-4DBD-A38D-0CF5F13544BA}
+	EndGlobalSection
+EndGlobal
